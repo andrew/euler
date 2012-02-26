@@ -1,3 +1,3 @@
 # Project Euler solutions
 
-My solutions to project euler written in Ruby
+My solutions to Project Euler written in Ruby
