@@ -1,0 +1,1 @@
+(1..999).to_a.map { |i| i if (i % 3) == 0 or (i % 5) == 0 }.compact.inject(:+)
